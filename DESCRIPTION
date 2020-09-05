@@ -1,0 +1,10 @@
+Package: popdyn
+Type: Package
+Title: Population Dynamics 
+Version: 0.1.0
+Author: Nicolas Physentzides
+Maintainer: Nicolas Physentzdes <nicolas.physentzides@gmail.com>
+Imports: 	deSolve, ggplot2, dplyr, shiny
+Description: Package that contains epidemilogical models
+Encoding: UTF-8
+LazyData: true

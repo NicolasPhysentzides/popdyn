@@ -1,0 +1,13 @@
+name: Rshiny
+title: Rshiny
+username:
+account: nicolasphysentzides
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2757828
+bundleId: 3595862
+url: https://nicolasphysentzides.shinyapps.io/Rshiny/
+when: 1599298155.98019
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: plot.seir.r|plot.sir.R|seir.R|seir.shiny.R|seir_nsimul.R|seir_nsimul.shiny.R|sir.R|sir.shiny.R|sir_additive.R|sir_additive.shiny.R|sir_birthsdeaths.R|sir_nsimul.R|sir_nsimul.shiny.R|sirs.shiny.R|sirs_birthsdeaths.R|sirs_nsimul.R|sirs_nsimul.shiny.R
